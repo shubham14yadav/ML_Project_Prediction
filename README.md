@@ -29,7 +29,7 @@ Columns related to player skills are split and median filled for NaN values.<br>
 A set of 45 features are selected for model building including 'age', 'height_cm', 'weight_kg', 'overall', etc.
 The target variable is 'value_eur'.<br>
 
-<br><b>Visualization</b><br>
+<br><b>Visualization</b><br><b>
 ![ML_Project_Prediction](https://drive.google.com/uc?export=view&id=1HvH4RQcPP0I_XgLE_kzcmg28RDeipY6d)
 
 
@@ -43,7 +43,7 @@ Support Vector Regression (SVR): With hyperparameter tuning using GridSearchCV.<
 Decision Tree Regressor: Both basic and pre-pruned versions are trained.<br>
 Random Forest Regressor: An ensemble method for improved generalization.<br>
 AdaBoost Regressor: To boost performance of the decision tree model.<br>
-K-Nearest Neighbors (KNN): A non-parametric method for regression.<br>
+K-Nearest Neighbors (KNN): A non-parametric method for regression.<br><b>
 ![ML_Project_Prediction](https://drive.google.com/uc?export=view&id=1Lqd9Ci0jAsnmOrTJz7MWS9OEjfxC_rC1)<br>
 
 <br><b>Evaluation</b><br>
